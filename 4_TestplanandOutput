@@ -12,5 +12,5 @@ Game Win.
 You Lost.
 
 Expected Results:
-1	If a player completes the game by finding all the mines then display with a message called “Game Win” 
-2	If a player find the Mine in game then display with a message called “You lost” and all squares are revealed.
+1 If a player completes the game by finding all the mines then display with a message called “Game Win” 
+2 If a player find the Mine in game then display with a message called “You lost” and all squares are revealed.
